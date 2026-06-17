@@ -5,6 +5,7 @@ export interface Project {
   description: string;
   image: string;
   tech: string[];
+  category: "company_profile" | "landing_page" | "kreasi";
   priority: number;
   visibility: "public" | "private";
   screenshots: string[];
