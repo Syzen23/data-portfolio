@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gallery-001",
+    "image": "/gallery/gallery-001.png",
+    "caption": "Participated in campus technology exhibition.",
+    "createdAt": "2026-03-10",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "gallery-002",
+    "image": "/gallery/gallery-001.png",
+    "caption": "Won second place at national coding competition.",
+    "createdAt": "2026-04-22",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "gallery-003",
+    "image": "/gallery/gallery-001.png",
+    "caption": "Speaker at university developer workshop.",
+    "createdAt": "2026-05-18",
+    "updatedAt": "2026-06-17"
+  }
+]

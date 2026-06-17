@@ -1,0 +1,51 @@
+[
+  {
+    "id": "project-001",
+    "slug": "pos-system",
+    "title": "POS System",
+    "description": "Modern Point of Sale application designed for UMKM. Features product management, transaction processing, and sales reporting.",
+    "image": "/projects/pos-system/cover.png",
+    "tech": ["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
+    "priority": 1,
+    "visibility": "public",
+    "screenshots": [
+      "/projects/pos-system/cover.png"
+    ],
+    "demoUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/pos-system",
+    "createdAt": "2026-01-15",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "project-002",
+    "slug": "syzen-quiz",
+    "title": "Syzen Quiz",
+    "description": "Interactive quiz platform with real-time scoring and leaderboard system.",
+    "image": "/projects/pos-system/cover.png",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "priority": 2,
+    "visibility": "public",
+    "screenshots": [],
+    "demoUrl": "https://example.com",
+    "githubUrl": "https://github.com/example/syzen-quiz",
+    "createdAt": "2026-03-10",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "project-003",
+    "slug": "inventory-management",
+    "title": "Inventory Management",
+    "description": "Enterprise inventory management system with barcode scanning and stock tracking capabilities.",
+    "image": "/projects/pos-system/cover.png",
+    "tech": ["Next.js", "PostgreSQL", "Prisma"],
+    "priority": 3,
+    "visibility": "private",
+    "screenshots": [
+      "/projects/pos-system/cover.png"
+    ],
+    "demoUrl": "",
+    "githubUrl": "",
+    "createdAt": "2025-11-20",
+    "updatedAt": "2026-06-17"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "certificate-001",
+    "slug": "dicoding-frontend",
+    "title": "Frontend Developer",
+    "issuer": "Dicoding",
+    "description": "Certification in modern frontend development covering React, responsive design, and web performance optimization.",
+    "image": "/certificates/sample-certificate/cover.png",
+    "credentialUrl": "https://www.dicoding.com/certificates/example",
+    "createdAt": "2026-04-20",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "certificate-002",
+    "slug": "juaravibecoding",
+    "title": "Juara Vibe Coding",
+    "issuer": "Google Developer",
+    "description": "Achievement certificate for winning the Vibe Coding competition organized by Google Developer community.",
+    "image": "/certificates/sample-certificate/cover.png",
+    "credentialUrl": "",
+    "createdAt": "2026-05-15",
+    "updatedAt": "2026-06-17"
+  }
+]

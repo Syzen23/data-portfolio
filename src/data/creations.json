@@ -1,0 +1,29 @@
+[
+  {
+    "id": "creation-001",
+    "platform": "tiktok",
+    "title": "Building a POS System",
+    "thumbnail": "/creations/tiktok/content-001.png",
+    "url": "https://tiktok.com/@example/video/1",
+    "createdAt": "2026-04-05",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "creation-002",
+    "platform": "instagram",
+    "title": "Developer Journey",
+    "thumbnail": "/creations/instagram/content-001.png",
+    "url": "https://instagram.com/p/example1",
+    "createdAt": "2026-05-12",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "creation-003",
+    "platform": "tiktok",
+    "title": "Day in the Life of a Developer",
+    "thumbnail": "/creations/tiktok/content-001.png",
+    "url": "https://tiktok.com/@example/video/2",
+    "createdAt": "2026-06-01",
+    "updatedAt": "2026-06-17"
+  }
+]
