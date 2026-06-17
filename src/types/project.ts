@@ -9,7 +9,6 @@ export interface Project {
   visibility: "public" | "private";
   screenshots: string[];
   demoUrl: string;
-  githubUrl: string;
   createdAt: string;
   updatedAt: string;
 }
