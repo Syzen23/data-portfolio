@@ -2,50 +2,104 @@
   {
     "id": "project-001",
     "slug": "pos-system",
-    "title": "POS System",
-    "description": "Modern Point of Sale application designed for UMKM. Features product management, transaction processing, and sales reporting.",
-    "image": "/projects/pos-system/cover.png",
-    "tech": ["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
+    "title": "POS System — Nasi Goreng",
+    "description": "Aplikasi Point of Sale modern untuk UMKM kuliner dengan fitur kelola menu, dashboard admin, riwayat transaksi, dan grafik pendapatan real-time. Dilengkapi tampilan responsif untuk desktop dan mobile.",
+    "image": "/projects/banner_nasgor.png",
+    "tech": ["Laravel", "Bootstrap", "MySQL", "Chart.js"],
     "priority": 1,
     "visibility": "public",
     "screenshots": [
-      "/projects/pos-system/cover.png"
+      "/projects/banner_nasgor.png",
+      "/projects/Group 10 (1).png"
     ],
-    "demoUrl": "https://example.com",
-    "githubUrl": "https://github.com/example/pos-system",
-    "createdAt": "2026-01-15",
+    "demoUrl": "",
+    "githubUrl": "https://github.com/Syzen23",
+    "createdAt": "2025-06-01",
     "updatedAt": "2026-06-17"
   },
   {
     "id": "project-002",
-    "slug": "syzen-quiz",
-    "title": "Syzen Quiz",
-    "description": "Interactive quiz platform with real-time scoring and leaderboard system.",
-    "image": "/projects/pos-system/cover.png",
-    "tech": ["React", "Node.js", "MongoDB"],
+    "slug": "portfolio-v2",
+    "title": "Portfolio Website V2",
+    "description": "Website portfolio personal versi kedua dengan desain modern, menampilkan profil, pengalaman, proyek, dan kontak. Dibangun dengan fokus pada UI/UX yang responsif dan interaktif.",
+    "image": "/projects/banner_p2.png",
+    "tech": ["Next.js", "TypeScript", "Tailwind CSS"],
     "priority": 2,
     "visibility": "public",
-    "screenshots": [],
-    "demoUrl": "https://example.com",
-    "githubUrl": "https://github.com/example/syzen-quiz",
-    "createdAt": "2026-03-10",
+    "screenshots": [
+      "/projects/banner_p2.png"
+    ],
+    "demoUrl": "",
+    "githubUrl": "https://github.com/Syzen23",
+    "createdAt": "2026-01-15",
     "updatedAt": "2026-06-17"
   },
   {
     "id": "project-003",
-    "slug": "inventory-management",
-    "title": "Inventory Management",
-    "description": "Enterprise inventory management system with barcode scanning and stock tracking capabilities.",
-    "image": "/projects/pos-system/cover.png",
-    "tech": ["Next.js", "PostgreSQL", "Prisma"],
+    "slug": "portfolio-v1",
+    "title": "Portfolio Website V1",
+    "description": "Website portfolio personal pertama yang menampilkan biodata, skill, dan proyek. Dibangun sebagai proyek belajar web development dengan desain clean dan responsif.",
+    "image": "/projects/banner_p1.png",
+    "tech": ["HTML", "CSS", "JavaScript"],
     "priority": 3,
-    "visibility": "private",
+    "visibility": "public",
     "screenshots": [
-      "/projects/pos-system/cover.png"
+      "/projects/banner_p1.png"
     ],
     "demoUrl": "",
-    "githubUrl": "",
-    "createdAt": "2025-11-20",
+    "githubUrl": "https://github.com/Syzen23",
+    "createdAt": "2025-08-10",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "project-004",
+    "slug": "ecommerce-landing-page",
+    "title": "E-Commerce Landing Page",
+    "description": "Landing page untuk toko keyboard ergonomis dengan desain premium. Menampilkan katalog produk, fitur shop now, review pelanggan, dan tampilan responsif.",
+    "image": "/projects/banner_ecom.png",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "priority": 4,
+    "visibility": "public",
+    "screenshots": [
+      "/projects/banner_ecom.png"
+    ],
+    "demoUrl": "",
+    "githubUrl": "https://github.com/Syzen23",
+    "createdAt": "2025-10-20",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "project-005",
+    "slug": "todo-app",
+    "title": "Todo App",
+    "description": "Aplikasi manajemen tugas dengan fitur ToDo Description dan ToDo List Items. Dashboard interaktif untuk mengelola dan melacak progres tugas harian.",
+    "image": "/projects/banner_todos.png",
+    "tech": ["Laravel", "Bootstrap", "MySQL"],
+    "priority": 5,
+    "visibility": "public",
+    "screenshots": [
+      "/projects/banner_todos.png"
+    ],
+    "demoUrl": "",
+    "githubUrl": "https://github.com/Syzen23",
+    "createdAt": "2025-09-05",
+    "updatedAt": "2026-06-17"
+  },
+  {
+    "id": "project-006",
+    "slug": "attack-on-titan-fanpage",
+    "title": "Attack on Titan Fan Page",
+    "description": "Website fan page anime Attack on Titan dengan desain immersive. Menampilkan informasi karakter, titan, dan captain. Dibangun dengan HTML, CSS, dan JavaScript murni.",
+    "image": "/projects/banner_aot.png",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "priority": 6,
+    "visibility": "public",
+    "screenshots": [
+      "/projects/banner_aot.png"
+    ],
+    "demoUrl": "",
+    "githubUrl": "https://github.com/Syzen23",
+    "createdAt": "2025-07-15",
     "updatedAt": "2026-06-17"
   }
 ]
